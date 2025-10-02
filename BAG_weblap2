@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="hu"></html>
+
+<head>
+   <meta charset="UTF-8">
+    <title>Szövegformázás - Stílusok</title>
+</head>
+
+<body>
+
+<h2>Szövegformázás: B, I, U, strike, subscript, superscript</h2>
+
+<p>
+<b>Félkövér szöveg</b><br>
+<i>Dőlt szöveg</i><br>
+<u>Aláhúzott szöveg</u><br>
+<strike>Áthúzott szöveg</strike><br>
+Alsó index: H<sub>2</sub>O<br>
+Felső index: x<sup>2</sup>
+</p>
+
+</body>
+</html>
